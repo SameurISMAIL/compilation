@@ -1,0 +1,9 @@
+" fichier exemple "
+if a >b a=a+2
+"chaîne deux " # commmentaire#
+3.5 5.3E2 +4.2
+-.2e2 2.1et
+truc1 x1 1x
+"chaîne incomplète
+-t
+#fin

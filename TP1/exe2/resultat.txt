@@ -1,0 +1,4 @@
+Nombre de mots       : 6
+Nombre de lignes     : 3
+Nombre de caracteres : 28
+Somme des nombres    : 117

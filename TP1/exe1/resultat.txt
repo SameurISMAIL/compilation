@@ -1,0 +1,8 @@
+C'est un nombre binaire
+
+Ce n'est pas un nombre binaire
+
+C'est un nombre binaire
+
+Ce n'est pas un nombre binaire
+
